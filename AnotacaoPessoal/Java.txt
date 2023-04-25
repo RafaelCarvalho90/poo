@@ -1,0 +1,23 @@
+.class = arquivos bytecode na jvm
+
+
+jvm=apenas a virtual machine, esse download nao existe sempre vem acompanhada
+jre=Java runtime environment, ambiente de execução java ,formado pela JVM e bibliotecas
+jdk=Java development Kit : Ambiente de desenvolvimento Java, o Jdk tem com papel principal compliar o codigo java em bytecode
+
+
+
+Jre carrega a jvm e 
+
+eclipse é mais ultilizado que o spring
+
+
+sts
+ambiente de desenvolvimento baseado no eclipse que é customizado pra o desenvolvimento de aplicativos spring.
+
+vetor no portugol é o array no java
+String é maiuscula pq ela é primitiva
+String sempre com S maiusculo
+
+
+

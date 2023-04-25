@@ -1,0 +1,10 @@
+tratamento de erros
+throws ou try cath
+
+diferenças entre elas
+
+o throws não pode tratar direto no erro
+nao consegue dar um retorno ao usuario oq se passa ou pedir para retornar
+  
+
+metodo append

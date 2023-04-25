@@ -1,0 +1,10 @@
+foreach para estrutura 
+
+
+for (String nome : Lista){  // precisa declarar uma variavel parecido com o For ( int i )
+
+	System.out.println(nome);
+
+}
+
+lista é usado para um tipo de objeto string ou int etc....

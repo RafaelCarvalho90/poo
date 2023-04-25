@@ -1,0 +1,1 @@
+escreva no portugol = system out 

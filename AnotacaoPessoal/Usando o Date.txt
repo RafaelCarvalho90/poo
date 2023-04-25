@@ -1,0 +1,15 @@
+usar a biblioteca simple date format para usar sempre que tiver hora
+
+
+		Date data = new Date();
+		System.out.println(data);
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+		System.out.println(sdf.format(data));
+
+
+
+Olha sobre parse
+
+
+
+usar gregoriancalendar
